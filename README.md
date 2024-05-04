@@ -10,7 +10,7 @@
 
 
 
-##How it Works
+## How it Works
  * you can add any friends by clicking "add" button and from will open to add his/her name and picture
  * then by select any friend you can spilt bill between you and your friend and automaticly tell if you owens to him or no
 
