@@ -6,7 +6,7 @@
 
 
 
-#### 🌟live Demo :  https://6636329d822f94f3a01cb208--warm-hummingbird-b4ea3d.netlify.app/
+#### 🌟live Demo :  https://eat-spilt.netlify.app/
 
 
 
@@ -46,7 +46,7 @@ These instructions will get you a copy of the project up and running on your loc
 Start with cloning this repo on your local machine:
 
 ```sh
-$ git clone https://github.com/](https://github.com/abdelrahamn1/eat-n-split-react.git
+$ git clone https://github.com/abdelrahamn1/eat-n-split-react.git
 ```
 
 To install and set up the library, run:
