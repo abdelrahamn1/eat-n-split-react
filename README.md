@@ -79,7 +79,7 @@ $ yarn start
 ## Built With
 * Node.js 
 * React
-* creat-react-app
+* create-react-app
 * UseState
 
 * ## Authors
