@@ -62,6 +62,17 @@ $ yarn add
 ```
 
 
+if it not still working you can write this :
+```
+$ npm install react-scripts
+```
+
+Yarn :
+```
+$ yarn add react-scripts
+```
+
+
 ## Usage
 
 ### Serving the app
