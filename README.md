@@ -3,7 +3,8 @@
 
 # Eat & Spilt Bill React App
 > This is a React App to Spilt biil between you and other Friends
->
+
+
 > ## Prerequisites
 >
 > This project requires NodeJS (version 18 or later) , NPM and React (Vairsion 5 or later) 
