@@ -6,8 +6,17 @@
 
 
 
-
 #### 🌟live Demo :  https://6636329d822f94f3a01cb208--warm-hummingbird-b4ea3d.netlify.app/
+
+
+
+##How it Works
+ * you can add any friends by clicking "add" button and from will open to add his/her name and picture
+ * then by select any friend you can spilt bill between you and your friend and automaticly tell if you owens to him or no
+
+
+
+
 ## Prerequisites
  This project requires NodeJS (version 18 or later) , NPM and React (Vairsion 5 or later) 
  , [Node](http://nodejs.org/) and [NPM](https://npmjs.org/) are really easy to install.
@@ -20,6 +29,11 @@ $ npm -v && node -v
 9.5.0
 v18.15.0
 ```
+
+
+
+
+
 
 ## Getting Started
 
