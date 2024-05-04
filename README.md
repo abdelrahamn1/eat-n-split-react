@@ -5,8 +5,8 @@
 > This is a React App to Spilt biil between you and other Friends
 
 
-> ## Prerequisites
-> This project requires NodeJS (version 18 or later) , NPM and React (Vairsion 5 or later) 
+## Prerequisites
+ This project requires NodeJS (version 18 or later) , NPM and React (Vairsion 5 or later) 
 [Node](http://nodejs.org/) and [NPM](https://npmjs.org/) are really easy to install.
 
 To make sure you have them available on your machine,
