@@ -2,9 +2,13 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # Eat & Spilt Bill React App
-> This is a React App to Spilt biil between you and other Friends
+> This is a React App to Spilt biil between you and other Friends using UseState
 
 
+
+
+#live Demo 
+https://6636329d822f94f3a01cb208--warm-hummingbird-b4ea3d.netlify.app/
 ## Prerequisites
  This project requires NodeJS (version 18 or later) , NPM and React (Vairsion 5 or later) 
 [Node](http://nodejs.org/) and [NPM](https://npmjs.org/) are really easy to install.
